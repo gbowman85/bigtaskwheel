@@ -1,0 +1,32 @@
+{
+  "htmlFiles": [
+    {
+      "fileId": "0BzvmGqxzXWKvRTJGaTB5RG9IMjA",
+      "contentType": "text/html",
+      "name": "index.html",
+      "path": "0BzvmGqxzXWKvUGtRYm9IaEJsUW8/"
+    }
+  ],
+  "cssFiles": [
+    {
+      "fileId": "0BzvmGqxzXWKvMDRXcVBDNE5kenM",
+      "contentType": "text/css",
+      "name": "style.css",
+      "path": "0BzvmGqxzXWKvUGtRYm9IaEJsUW8/"
+    }
+  ],
+  "javascriptFiles": [
+    {
+      "fileId": "0BzvmGqxzXWKvZG1ZZkl3RE9pbkU",
+      "contentType": "text/javascript",
+      "name": "storage.js",
+      "path": "0BzvmGqxzXWKvUGtRYm9IaEJsUW8/"
+    },
+    {
+      "fileId": "0BzvmGqxzXWKvOXNsclo5dU1KclU",
+      "contentType": "text/javascript",
+      "name": "rotation.js",
+      "path": "0BzvmGqxzXWKvUGtRYm9IaEJsUW8/"
+    }
+  ]
+}

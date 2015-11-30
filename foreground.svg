@@ -1,0 +1,10 @@
+<svg width="700" height="700" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_1">
+   <path id="svg_2" d="m243.5,620c2,0 15.5,0 15.5,0l91,-315.5l-13.5,-4.5l-93,320z" stroke-miterlimit="10" stroke="#000000" fill="#ff7f00"/>
+   <polygon id="svg_3" points="510.5,620 527.833,620 392.334,300 378.167,308.497  " stroke-miterlimit="10" stroke="#000000" fill="#ff7f00"/>
+   <circle id="svg_4" r="51.417" cy="278.746" cx="363.583" stroke-miterlimit="10" stroke="#000000" fill="#ff7f00"/>
+  </g>
+ </g>
+</svg>
